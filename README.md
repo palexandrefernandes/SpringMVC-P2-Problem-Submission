@@ -7,3 +7,7 @@ This project was made for the Projeto II university course and it tries to imple
 * Spring Security
 * Spring Data JPA
 * MySQL
+* HTML5
+* JavaScript
+* Leaflet
+* CSS
